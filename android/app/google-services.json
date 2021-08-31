@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043672569997",
+    "project_id": "fms-gym",
+    "storage_bucket": "fms-gym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043672569997:android:11c3248e87d736e71c6ac4",
+        "android_client_info": {
+          "package_name": "com.barqiayaman.fms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043672569997-hrr32uubn1k53nkg8ieeudbdtsne8tjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0o1d6XZTDabyHqKB3NPyQpTIoy6dhFyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043672569997-hrr32uubn1k53nkg8ieeudbdtsne8tjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
